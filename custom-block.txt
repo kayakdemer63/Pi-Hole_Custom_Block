@@ -1,4 +1,6 @@
 0.0.0.0 asphalte.com
+0.0.0.0 auchan.fr
+0.0.0.0 braun.com
 0.0.0.0 carrefour.fr
 0.0.0.0 e.leclerc
 0.0.0.0 emma.fr
