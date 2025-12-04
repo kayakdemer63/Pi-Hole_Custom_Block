@@ -1,6 +1,6 @@
-emma.fr
-gillette.fr
-carrefour.fr
-e.leclerc
-optic2000.com
-asphalte.com
+0.0.0.0 emma.fr
+0.0.0.0 gillette.fr
+0.0.0.0 carrefour.fr
+0.0.0.0 e.leclerc
+0.0.0.0 optic2000.com
+0.0.0.0 asphalte.com
