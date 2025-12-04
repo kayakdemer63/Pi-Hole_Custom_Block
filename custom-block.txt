@@ -5,7 +5,9 @@
 0.0.0.0 e.leclerc
 0.0.0.0 emma.fr
 0.0.0.0 gillette.fr
+0.0.0.0 laredoute.fr
 0.0.0.0 optic2000.com
+0.0.0.0 president.fr
 0.0.0.0 sfr.fr
 0.0.0.0 viki.com
 0.0.0.0 xtb.com
