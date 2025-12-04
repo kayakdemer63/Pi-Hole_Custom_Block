@@ -6,3 +6,4 @@
 0.0.0.0 optic2000.com
 0.0.0.0 sfr.fr
 0.0.0.0 viki.com
+0.0.0.0 xtb.com
