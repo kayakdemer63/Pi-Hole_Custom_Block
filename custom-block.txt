@@ -1,5 +1,5 @@
-https://www.emma.fr
-https://www.gillette.fr
-https://www.ecatalogue.carrefour.fr
-https://www.carrefour.fr
+emma.fr
+gillette.fr
 carrefour.fr
+e.leclerc
+optic2000.com
