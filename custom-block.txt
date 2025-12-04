@@ -10,6 +10,7 @@
 0.0.0.0 nestle.fr
 0.0.0.0 optic2000.com
 0.0.0.0 oralb.fr
+0.0.0.0 photobox.fr
 0.0.0.0 pierreetvacances.com
 0.0.0.0 president.fr
 0.0.0.0 sfr.fr
