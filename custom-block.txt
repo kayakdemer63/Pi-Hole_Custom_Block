@@ -1,3 +1,4 @@
+0.0.0.0 air-austral.com
 0.0.0.0 asphalte.com
 0.0.0.0 auchan.fr
 0.0.0.0 braun.com
@@ -5,6 +6,7 @@
 0.0.0.0 cdiscount.com
 0.0.0.0 e.leclerc
 0.0.0.0 emma.fr
+0.0.0.0 free.fr
 0.0.0.0 gillette.fr
 0.0.0.0 laredoute.fr
 0.0.0.0 nestle.fr
