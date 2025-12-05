@@ -11,13 +11,16 @@
 0.0.0.0 free.fr
 0.0.0.0 gillette.fr
 0.0.0.0 laredoute.fr
+0.0.0.0 monkeyshoulder.com
 0.0.0.0 nestle.fr
+0.0.0.0 nintendo.com
 0.0.0.0 optic2000.com
 0.0.0.0 oralb.fr
 0.0.0.0 photobox.fr
 0.0.0.0 pierreetvacances.com
 0.0.0.0 president.fr
 0.0.0.0 sfr.fr
+0.0.0.0 uber.com
 0.0.0.0 viki.com
 0.0.0.0 volkswagen.fr
 0.0.0.0 xtb.com
