@@ -11,6 +11,7 @@
 0.0.0.0 free.fr
 0.0.0.0 gillette.fr
 0.0.0.0 laredoute.fr
+0.0.0.0 leboncoin.fr
 0.0.0.0 monkeyshoulder.com
 0.0.0.0 motoblouz.com
 0.0.0.0 nestle.fr
