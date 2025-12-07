@@ -8,6 +8,7 @@
 0.0.0.0 dolcegabbana.com
 0.0.0.0 e.leclerc
 0.0.0.0 ecatalogue.carrefour.fr
+0.0.0.0 eexb.top
 0.0.0.0 emma.fr
 0.0.0.0 free.fr
 0.0.0.0 gillette.fr
