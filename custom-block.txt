@@ -1,4 +1,5 @@
 0.0.0.0 air-austral.com
+0.0.0.0 amuletvoice.com
 0.0.0.0 asphalte.com
 0.0.0.0 auchan.fr
 0.0.0.0 braun.com
